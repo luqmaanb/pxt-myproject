@@ -2,7 +2,7 @@
     "name": "pxt-myProject",
     "description": "",
     "dependencies": {
-        "xinabox-cs11": "*"
+        "core": "*"
     },
     "files": [
         "main.ts",
