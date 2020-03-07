@@ -3,6 +3,7 @@ namespace pxt_myProject {
     /**
      * Help goes here.
      */
+    //% block=fun
     //% shim=pxt_myProject::extfun
     export function extfun(x: number, y: number) {
         // Dummy implementation for the simulator.

@@ -5,6 +5,8 @@
         "xinabox-cs11": "*"
     },
     "files": [
+        "main.ts",
+        "main.blocks",
         "README.md",
         "extension.cpp",
         "extension.ts",
